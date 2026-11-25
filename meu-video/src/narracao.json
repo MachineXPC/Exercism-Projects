@@ -1,0 +1,137 @@
+{
+  "fps": 30,
+  "transicaoFrames": 15,
+  "totalFrames": 1148,
+  "cenas": [
+    {
+      "id": "problema",
+      "audio": "narracao/cena1-problema.wav",
+      "inicioFrame": 0,
+      "duracaoFrames": 204,
+      "falaInicioFrame": 18,
+      "falaDuracaoFrames": 166,
+      "legendas": [
+        {
+          "texto": "Quem passa horas no computador",
+          "inicioFrame": 18,
+          "fimFrame": 71
+        },
+        {
+          "texto": "conhece o problema:",
+          "inicioFrame": 71,
+          "fimFrame": 101
+        },
+        {
+          "texto": "as mãos suam e o teclado fica desconfortável.",
+          "inicioFrame": 101,
+          "fimFrame": 183
+        }
+      ]
+    },
+    {
+      "id": "produto",
+      "audio": "narracao/cena2-produto.wav",
+      "inicioFrame": 189,
+      "duracaoFrames": 228,
+      "falaInicioFrame": 10,
+      "falaDuracaoFrames": 198,
+      "legendas": [
+        {
+          "texto": "Apresentamos o FrescoKey:",
+          "inicioFrame": 10,
+          "fimFrame": 57
+        },
+        {
+          "texto": "um teclado com dois ventiladores silenciosos embutidos",
+          "inicioFrame": 57,
+          "fimFrame": 146
+        },
+        {
+          "texto": "e um mouse com ventilador integrado.",
+          "inicioFrame": 146,
+          "fimFrame": 207
+        }
+      ]
+    },
+    {
+      "id": "funcionamento",
+      "audio": "narracao/cena3-funcionamento.wav",
+      "inicioFrame": 402,
+      "duracaoFrames": 248,
+      "falaInicioFrame": 10,
+      "falaDuracaoFrames": 218,
+      "legendas": [
+        {
+          "texto": "Os ventiladores puxam ar pelas frestas da carcaça",
+          "inicioFrame": 10,
+          "fimFrame": 93
+        },
+        {
+          "texto": "e ajudam a dissipar o calor das mãos,",
+          "inicioFrame": 93,
+          "fimFrame": 157
+        },
+        {
+          "texto": "mantendo a região mais seca durante o uso.",
+          "inicioFrame": 157,
+          "fimFrame": 228
+        }
+      ]
+    },
+    {
+      "id": "diferenciais",
+      "audio": "narracao/cena4-diferenciais.wav",
+      "inicioFrame": 635,
+      "duracaoFrames": 333,
+      "falaInicioFrame": 10,
+      "falaDuracaoFrames": 303,
+      "legendas": [
+        {
+          "texto": "Com 3 níveis de velocidade,",
+          "inicioFrame": 10,
+          "fimFrame": 62
+        },
+        {
+          "texto": "operação abaixo de 30 decibéis",
+          "inicioFrame": 62,
+          "fimFrame": 122
+        },
+        {
+          "texto": "e bateria recarregável por USB-C",
+          "inicioFrame": 122,
+          "fimFrame": 192
+        },
+        {
+          "texto": "com cerca de 8 horas de uso,",
+          "inicioFrame": 192,
+          "fimFrame": 243
+        },
+        {
+          "texto": "você trabalha ou joga com mais conforto.",
+          "inicioFrame": 243,
+          "fimFrame": 312
+        }
+      ]
+    },
+    {
+      "id": "encerramento",
+      "audio": "narracao/cena5-encerramento.wav",
+      "inicioFrame": 953,
+      "duracaoFrames": 195,
+      "falaInicioFrame": 10,
+      "falaDuracaoFrames": 110,
+      "legendas": [
+        {
+          "texto": "FrescoKey.",
+          "inicioFrame": 10,
+          "fimFrame": 32
+        },
+        {
+          "texto": "Mais conforto para suas longas horas no computador.",
+          "inicioFrame": 32,
+          "fimFrame": 119
+        }
+      ]
+    }
+  ]
+}
